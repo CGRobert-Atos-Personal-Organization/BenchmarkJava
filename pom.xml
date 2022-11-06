@@ -1204,11 +1204,9 @@
             </plugin>
         </plugins>
     </reporting>
-    <properties>
-      <sonar.organization>cgrobert-atos-personal-organization</sonar.organization>
-      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
-    <properties>
+    <properties>  
+        <sonar.organization>cgrobert-atos-personal-organization</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.java.target>1.7</project.java.target>
