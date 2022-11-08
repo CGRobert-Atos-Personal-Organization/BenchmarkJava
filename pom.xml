@@ -783,8 +783,8 @@
         <dependency>
             <groupId>org.hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
-            <!-- <version>2.7.1</version> This is latest version, but requires Java 8. 2.3.6 is last version to support Java 7. -->
-            <version>2.3.6</version>
+            <!-- <version>2.7.1</version> This is latest version, but requires Java 8. 2.7.1 is last version to support Java 7. -->
+            <version>2.7.1</version>
         </dependency>
 
         <dependency>
